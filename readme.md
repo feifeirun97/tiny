@@ -1,0 +1,1 @@
+![npm (scoped)](https://img.shields.io/npm/v/@z5239235/tiny)
